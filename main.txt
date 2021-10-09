@@ -1,0 +1,2 @@
+We have a 3 scrum and 1 devops team in our
+current project. We have a releases every 3 months
